@@ -1,0 +1,1123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<venues>
+  <venue id='426567511'>
+    <name>
+      <![CDATA[Easton Community Centre]]>
+    </name>
+    <shows>
+      <show id='1173694880'>
+        <name>
+          <![CDATA[Amazing Grace: YorubaWorlds + Q&A (18 CTBA)]]>
+        </name>
+        <description/>
+        <event_category/>
+        <production_company_name>Afrika Eye</production_company_name>
+        <priority>0</priority>
+        <url>https://watershed.ticketsolve.com/shows/1173694880/events</url>
+        <version>52</version>
+        <tags>
+          <tag>ae_easton_cc</tag>
+          <tag>afrika_eye_ae26</tag>
+          <tag>amazing_grace_ae26</tag>
+          <tag>main</tag>
+        </tags>
+        <properties>
+        </properties>
+        <events>
+          <event id='428913716'>
+            <name>
+              <![CDATA[22 Nov 2026 - 14:00 @ Easton Community Centre Amazing Grace: YorubaWorlds + Q&A (18 CTBA)]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-11-22T14:00:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-11-22T14:00:00+00:00</opening_time_iso>
+            <event_number>428913716</event_number>
+            <venue_layout>Easton Community Centre</venue_layout>
+            <comment>
+              <![CDATA[]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173694880/events/428913716</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173694880/events/428913716.xml</url>
+            </feed>
+          </event>
+        </events>
+        <status>available</status>
+      </show>
+    </shows>
+  </venue>
+  <venue id='426565722'>
+    <name>
+      <![CDATA[Pervasive Media Studio]]>
+    </name>
+    <shows>
+      <show id='1173695329'>
+        <name>
+          <![CDATA[Very Normal Talk]]>
+        </name>
+        <description/>
+        <event_category>Lunchtime Talk</event_category>
+        <production_company_name/>
+        <priority>0</priority>
+        <url>https://watershed.ticketsolve.com/shows/1173695329/events</url>
+        <version>12</version>
+        <tags>
+          <tag>lunchtimetalk</tag>
+          <tag>main</tag>
+          <tag>studio</tag>
+          <tag>very_normal_talk</tag>
+        </tags>
+        <properties>
+        </properties>
+        <events>
+          <event id='428918093'>
+            <name>
+              <![CDATA[27 Nov 2026 - 13:00 @ Pervasive Media Studio Very Normal Talk]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-11-27T13:00:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-11-27T13:00:00+00:00</opening_time_iso>
+            <event_number>428918093</event_number>
+            <venue_layout>Pervasive Media Studio</venue_layout>
+            <comment>
+              <![CDATA[]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173695329/events/428918093</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173695329/events/428918093.xml</url>
+            </feed>
+          </event>
+        </events>
+        <status>available</status>
+      </show>
+    </shows>
+  </venue>
+  <venue id='426565625'>
+    <name>
+      <![CDATA[Watershed Cinemas]]>
+    </name>
+    <shows>
+      <show id='1173694824'>
+        <name>
+          <![CDATA[Bristol Bad Film Club presents: Dial Code Santa Claus (18 CTBA) S]]>
+        </name>
+        <description/>
+        <event_category>Film</event_category>
+        <production_company_name>American Genre Film</production_company_name>
+        <priority>0</priority>
+        <url>https://watershed.ticketsolve.com/shows/1173694824/events</url>
+        <version>40</version>
+        <tags>
+          <tag>bristol_bad_film_club</tag>
+          <tag>dial_code_santa_claus</tag>
+          <tag>main</tag>
+          <tag>rep_screening</tag>
+        </tags>
+        <properties>
+        </properties>
+        <events>
+          <event id='428912381'>
+            <name>
+              <![CDATA[19 Dec 2026 - 20:00 @ Watershed Cinemas Bristol Bad Film Club presents: Dial Code Santa Claus (18 CTBA) S]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-12-19T20:00:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-12-19T20:00:00+00:00</opening_time_iso>
+            <event_number>428912381</event_number>
+            <venue_layout>Cinema 1</venue_layout>
+            <comment>
+              <![CDATA[This event will start at the advertised screening time – there will be no ads or trailers.
+This screening will be preceded with an introduction.
+]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173694824/events/428912381</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173694824/events/428912381.xml</url>
+            </feed>
+          </event>
+        </events>
+        <status>available</status>
+      </show>
+      <show id='1173695039'>
+        <name>
+          <![CDATA[Chronicles From the Siege  (18) S]]>
+        </name>
+        <description/>
+        <event_category>Film</event_category>
+        <production_company_name/>
+        <priority>0</priority>
+        <url>https://watershed.ticketsolve.com/shows/1173695039/events</url>
+        <version>40</version>
+        <tags>
+          <tag>bpff26_palestine</tag>
+          <tag>chronicles_from_the_siege</tag>
+          <tag>main</tag>
+        </tags>
+        <properties>
+        </properties>
+        <events>
+          <event id='428915602'>
+            <name>
+              <![CDATA[06 Dec 2026 - 19:00 @ Watershed Cinemas Chronicles From the Siege  (18) S]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-12-06T19:00:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-12-06T19:00:00+00:00</opening_time_iso>
+            <event_number>428915602</event_number>
+            <venue_layout>Cinema 1</venue_layout>
+            <comment>
+              <![CDATA[This event will start at the advertised screening time – there will be no ads or trailers. This screening will be preceded with an introduction and followed with a Q&A]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173695039/events/428915602</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173695039/events/428915602.xml</url>
+            </feed>
+          </event>
+        </events>
+        <status>available</status>
+      </show>
+      <show id='1173691880'>
+        <name>
+          <![CDATA[Chungking Express (12A) S]]>
+        </name>
+        <description/>
+        <event_category>Film</event_category>
+        <production_company_name>Janus Films</production_company_name>
+        <priority>0</priority>
+        <url>https://watershed.ticketsolve.com/shows/1173691880/events</url>
+        <version>111</version>
+        <tags>
+          <tag>chungking_express</tag>
+          <tag>cinema</tag>
+          <tag>main</tag>
+          <tag>one_off</tag>
+        </tags>
+        <properties>
+        </properties>
+        <events>
+          <event id='428881950'>
+            <name>
+              <![CDATA[01 May 2027 - 18:00 @ Watershed Cinemas Chungking Express (12A) S]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='IST'>2027-05-01T18:00:00+01:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='IST'>2027-05-01T18:00:00+01:00</opening_time_iso>
+            <event_number>428881950</event_number>
+            <venue_layout>Cinema 1</venue_layout>
+            <comment>
+              <![CDATA[]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173691880/events/428881950</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173691880/events/428881950.xml</url>
+            </feed>
+          </event>
+        </events>
+        <status>available</status>
+      </show>
+      <show id='1173694848'>
+        <name>
+          <![CDATA[Congo Boy (18) CTBA]]>
+        </name>
+        <description/>
+        <event_category/>
+        <production_company_name>Afrika Eye</production_company_name>
+        <priority>0</priority>
+        <url>https://watershed.ticketsolve.com/shows/1173694848/events</url>
+        <version>54</version>
+        <tags>
+          <tag>ae26_ws</tag>
+          <tag>afrika_eye_ae26</tag>
+          <tag>intro</tag>
+          <tag>main</tag>
+        </tags>
+        <properties>
+        </properties>
+        <events>
+          <event id='428913571'>
+            <name>
+              <![CDATA[20 Nov 2026 - 20:00 @ Watershed Cinemas Congo Boy (18) CTBA]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-11-20T20:00:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-11-20T20:00:00+00:00</opening_time_iso>
+            <event_number>428913571</event_number>
+            <venue_layout>Cinema 3</venue_layout>
+            <comment>
+              <![CDATA[]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173694848/events/428913571</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173694848/events/428913571.xml</url>
+            </feed>
+          </event>
+        </events>
+        <status>available</status>
+      </show>
+      <show id='1173694879'>
+        <name>
+          <![CDATA[Fjord (15) S]]>
+        </name>
+        <description/>
+        <event_category>Film</event_category>
+        <production_company_name>Picturehouse Entertainment</production_company_name>
+        <priority>0</priority>
+        <url>https://watershed.ticketsolve.com/shows/1173694879/events</url>
+        <version>447</version>
+        <tags>
+          <tag>cinema</tag>
+          <tag>first_run</tag>
+          <tag>fjord</tag>
+          <tag>main</tag>
+        </tags>
+        <properties>
+        </properties>
+        <events>
+          <event id='428913696'>
+            <name>
+              <![CDATA[13 Nov 2026 - 11:00 @ Watershed Cinemas Fjord (15) S]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-11-13T11:00:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-11-13T11:00:00+00:00</opening_time_iso>
+            <event_number>428913696</event_number>
+            <venue_layout>Cinema 1</venue_layout>
+            <comment>
+              <![CDATA[Get a free tea or filter coffee when you show your ticket when purchasing a cake from the Cafe & Bar.
+This screening has descriptive subtitles]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173694879/events/428913696</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173694879/events/428913696.xml</url>
+            </feed>
+          </event>
+          <event id='428913697'>
+            <name>
+              <![CDATA[13 Nov 2026 - 20:20 @ Watershed Cinemas Fjord (15) S]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-11-13T20:20:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-11-13T20:20:00+00:00</opening_time_iso>
+            <event_number>428913697</event_number>
+            <venue_layout>Cinema 1</venue_layout>
+            <comment>
+              <![CDATA[]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173694879/events/428913697</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173694879/events/428913697.xml</url>
+            </feed>
+          </event>
+          <event id='428913705'>
+            <name>
+              <![CDATA[16 Nov 2026 - 14:00 @ Watershed Cinemas Fjord (15) S]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-11-16T14:00:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-11-16T14:00:00+00:00</opening_time_iso>
+            <event_number>428913705</event_number>
+            <venue_layout>Cinema 3</venue_layout>
+            <comment>
+              <![CDATA[This is a Relaxed Screening - the film will start at the advertised time with no adverts or trailers. The film will screen with Descriptive Subtitles.]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173694879/events/428913705</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173694879/events/428913705.xml</url>
+            </feed>
+          </event>
+          <event id='428913707'>
+            <name>
+              <![CDATA[18 Nov 2026 - 13:30 @ Watershed Cinemas Fjord (15) S]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-11-18T13:30:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-11-18T13:30:00+00:00</opening_time_iso>
+            <event_number>428913707</event_number>
+            <venue_layout>Cinema 3</venue_layout>
+            <comment>
+              <![CDATA[The film will screen with Descriptive Subtitles.]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173694879/events/428913707</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173694879/events/428913707.xml</url>
+            </feed>
+          </event>
+        </events>
+        <status>available</status>
+      </show>
+      <show id='1173692008'>
+        <name>
+          <![CDATA[Golden Boy (12A)]]>
+        </name>
+        <description/>
+        <event_category>Event Cinema</event_category>
+        <production_company_name>National Theatre Live (NTL)</production_company_name>
+        <priority>0</priority>
+        <url>https://watershed.ticketsolve.com/shows/1173692008/events</url>
+        <version>103</version>
+        <tags>
+          <tag>golden_boy</tag>
+          <tag>main</tag>
+          <tag>ntl</tag>
+        </tags>
+        <properties>
+        </properties>
+        <events>
+          <event id='428882883'>
+            <name>
+              <![CDATA[05 Nov 2026 - 19:30 @ Watershed Cinemas Golden Boy (12A)]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-11-05T19:30:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-11-05T19:30:00+00:00</opening_time_iso>
+            <event_number>428882883</event_number>
+            <venue_layout>Cinema 3</venue_layout>
+            <comment>
+              <![CDATA[]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173692008/events/428882883</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173692008/events/428882883.xml</url>
+            </feed>
+          </event>
+        </events>
+        <status>available</status>
+      </show>
+      <show id='1173694676'>
+        <name>
+          <![CDATA[I See Buildings Fall Like Lightning + Clio Barnard Q&A (15)]]>
+        </name>
+        <description/>
+        <event_category>Film</event_category>
+        <production_company_name>Curzon Film</production_company_name>
+        <priority>0</priority>
+        <url>https://watershed.ticketsolve.com/shows/1173694676/events</url>
+        <version>44</version>
+        <tags>
+          <tag>cinema</tag>
+          <tag>i_see_buildings_fall</tag>
+          <tag>main</tag>
+          <tag>one_off</tag>
+        </tags>
+        <properties>
+        </properties>
+        <events>
+          <event id='428911139'>
+            <name>
+              <![CDATA[02 Dec 2026 - 18:00 @ Watershed Cinemas I See Buildings Fall Like Lightning + Clio Barnard Q&A (15)]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-12-02T18:00:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-12-02T18:00:00+00:00</opening_time_iso>
+            <event_number>428911139</event_number>
+            <venue_layout>Cinema 1</venue_layout>
+            <comment>
+              <![CDATA[This event will start at the advertised screening time – there will be no ads or trailers.
+This screening will be preceded with an introduction and followed by a live Q&A.]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173694676/events/428911139</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173694676/events/428911139.xml</url>
+            </feed>
+          </event>
+        </events>
+        <status>available</status>
+      </show>
+      <show id='1173694745'>
+        <name>
+          <![CDATA[It's A Wonderful Life (80th Anniversary) (U)]]>
+        </name>
+        <description/>
+        <event_category>Film</event_category>
+        <production_company_name>Paramount</production_company_name>
+        <priority>0</priority>
+        <url>https://watershed.ticketsolve.com/shows/1173694745/events</url>
+        <version>101</version>
+        <tags>
+          <tag>cinema</tag>
+          <tag>festive_flicks_26</tag>
+          <tag>its_a_wonderful_life_80</tag>
+          <tag>main</tag>
+          <tag>rep_screening</tag>
+        </tags>
+        <properties>
+        </properties>
+        <events>
+          <event id='428911990'>
+            <name>
+              <![CDATA[11 Dec 2026 - 14:30 @ Watershed Cinemas It's A Wonderful Life (80th Anniversary) (U)]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-12-11T14:30:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-12-11T14:30:00+00:00</opening_time_iso>
+            <event_number>428911990</event_number>
+            <venue_layout>Cinema 1</venue_layout>
+            <comment>
+              <![CDATA[]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173694745/events/428911990</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173694745/events/428911990.xml</url>
+            </feed>
+          </event>
+          <event id='428911989'>
+            <name>
+              <![CDATA[12 Dec 2026 - 14:30 @ Watershed Cinemas It's A Wonderful Life (80th Anniversary) (U)]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-12-12T14:30:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-12-12T14:30:00+00:00</opening_time_iso>
+            <event_number>428911989</event_number>
+            <venue_layout>Cinema 1</venue_layout>
+            <comment>
+              <![CDATA[This screening has descriptive subtitles]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173694745/events/428911989</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173694745/events/428911989.xml</url>
+            </feed>
+          </event>
+          <event id='428911992'>
+            <name>
+              <![CDATA[16 Dec 2026 - 11:00 @ Watershed Cinemas It's A Wonderful Life (80th Anniversary) (U)]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-12-16T11:00:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-12-16T11:00:00+00:00</opening_time_iso>
+            <event_number>428911992</event_number>
+            <venue_layout>Cinema 1</venue_layout>
+            <comment>
+              <![CDATA[Screening for parents and carers of babies less than 12 months old only. With Descriptive subtitles. ]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173694745/events/428911992</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173694745/events/428911992.xml</url>
+            </feed>
+          </event>
+        </events>
+        <status>available</status>
+      </show>
+      <show id='1173694105'>
+        <name>
+          <![CDATA[Ken Russell's The Devils (18)]]>
+        </name>
+        <description/>
+        <event_category>Film</event_category>
+        <production_company_name>BFI</production_company_name>
+        <priority>0</priority>
+        <url>https://watershed.ticketsolve.com/shows/1173694105/events</url>
+        <version>277</version>
+        <tags>
+          <tag>audio_description</tag>
+          <tag>cinema</tag>
+          <tag>main</tag>
+          <tag>scares_at_the_shed</tag>
+          <tag>the_devils</tag>
+        </tags>
+        <properties>
+        </properties>
+        <events>
+          <event id='428904521'>
+            <name>
+              <![CDATA[01 Nov 2026 - 17:00 @ Watershed Cinemas Ken Russell's The Devils (18)]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-11-01T17:00:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-11-01T17:00:00+00:00</opening_time_iso>
+            <event_number>428904521</event_number>
+            <venue_layout>Cinema 1</venue_layout>
+            <comment>
+              <![CDATA[]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173694105/events/428904521</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173694105/events/428904521.xml</url>
+            </feed>
+          </event>
+          <event id='428904522'>
+            <name>
+              <![CDATA[02 Nov 2026 - 20:30 @ Watershed Cinemas Ken Russell's The Devils (18)]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-11-02T20:30:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-11-02T20:30:00+00:00</opening_time_iso>
+            <event_number>428904522</event_number>
+            <venue_layout>Cinema 3</venue_layout>
+            <comment>
+              <![CDATA[This screening will have Descriptive Subtitles.]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173694105/events/428904522</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173694105/events/428904522.xml</url>
+            </feed>
+          </event>
+          <event id='428904525'>
+            <name>
+              <![CDATA[04 Nov 2026 - 15:10 @ Watershed Cinemas Ken Russell's The Devils (18)]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-11-04T15:10:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-11-04T15:10:00+00:00</opening_time_iso>
+            <event_number>428904525</event_number>
+            <venue_layout>Cinema 3</venue_layout>
+            <comment>
+              <![CDATA[This is a Relaxed Screening, the film will start at the advertised time with no adverts or trailers, and will screen with Descriptive Subtitles.]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173694105/events/428904525</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173694105/events/428904525.xml</url>
+            </feed>
+          </event>
+        </events>
+        <status>available</status>
+      </show>
+      <show id='1173695038'>
+        <name>
+          <![CDATA[Landscapes of Memory + panel discussion (18)]]>
+        </name>
+        <description/>
+        <event_category>Film</event_category>
+        <production_company_name/>
+        <priority>0</priority>
+        <url>https://watershed.ticketsolve.com/shows/1173695038/events</url>
+        <version>42</version>
+        <tags>
+          <tag>bpff26_palestine</tag>
+          <tag>landscapes_of_memory</tag>
+          <tag>main</tag>
+        </tags>
+        <properties>
+        </properties>
+        <events>
+          <event id='428915601'>
+            <name>
+              <![CDATA[05 Dec 2026 - 17:00 @ Watershed Cinemas Landscapes of Memory + panel discussion (18)]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-12-05T17:00:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-12-05T17:00:00+00:00</opening_time_iso>
+            <event_number>428915601</event_number>
+            <venue_layout>Cinema 1</venue_layout>
+            <comment>
+              <![CDATA[This event will start at the advertised screening time – there will be no ads or trailers. This screening will be preceded with an introduction and followed by a live panel discussion. ]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173695038/events/428915601</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173695038/events/428915601.xml</url>
+            </feed>
+          </event>
+        </events>
+        <status>available</status>
+      </show>
+      <show id='1173695380'>
+        <name>
+          <![CDATA[Little Shop of Horrors (Director's Cut) (PG)]]>
+        </name>
+        <description/>
+        <event_category>Film</event_category>
+        <production_company_name>Park Circus</production_company_name>
+        <priority>0</priority>
+        <url>https://watershed.ticketsolve.com/shows/1173695380/events</url>
+        <version>21</version>
+        <tags>
+          <tag>little_shop_of_horrors</tag>
+          <tag>main</tag>
+          <tag>no_strings_on_me</tag>
+          <tag>rep_screening</tag>
+          <tag>xmas26</tag>
+        </tags>
+        <properties>
+        </properties>
+        <events>
+          <event id='428918269'>
+            <name>
+              <![CDATA[06 Dec 2026 - 14:00 @ Watershed Cinemas Little Shop of Horrors (Director's Cut) (PG)]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-12-06T14:00:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-12-06T14:00:00+00:00</opening_time_iso>
+            <event_number>428918269</event_number>
+            <venue_layout>Cinema 2</venue_layout>
+            <comment>
+              <![CDATA[This event will start at the advertised screening time – there will be no ads or trailers.
+This screening will be preceded with a pre-recorded introduction.]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173695380/events/428918269</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173695380/events/428918269.xml</url>
+            </feed>
+          </event>
+        </events>
+        <status>available</status>
+      </show>
+      <show id='1173694961'>
+        <name>
+          <![CDATA[Phantom Thread (35mm) (15)]]>
+        </name>
+        <description/>
+        <event_category>Film</event_category>
+        <production_company_name>Universal</production_company_name>
+        <priority>0</priority>
+        <url>https://watershed.ticketsolve.com/shows/1173694961/events</url>
+        <version>36</version>
+        <tags>
+          <tag>35mm</tag>
+          <tag>christmas_at_watershed_26</tag>
+          <tag>cinema</tag>
+          <tag>main</tag>
+          <tag>phantom_thread</tag>
+        </tags>
+        <properties>
+        </properties>
+        <events>
+          <event id='428914731'>
+            <name>
+              <![CDATA[31 Dec 2026 - 14:00 @ Watershed Cinemas Phantom Thread (35mm) (15)]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-12-31T14:00:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-12-31T14:00:00+00:00</opening_time_iso>
+            <event_number>428914731</event_number>
+            <venue_layout>Cinema 1</venue_layout>
+            <comment>
+              <![CDATA[The screening will be projected from a 35mm print. 
+This event will start at the advertised screening time – there will be no ads or trailers.]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173694961/events/428914731</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173694961/events/428914731.xml</url>
+            </feed>
+          </event>
+        </events>
+        <status>available</status>
+      </show>
+      <show id='1173694918'>
+        <name>
+          <![CDATA[Preview: The History of Concrete (18 CTBA) PS]]>
+        </name>
+        <description/>
+        <event_category>Film</event_category>
+        <production_company_name>Conic</production_company_name>
+        <priority>0</priority>
+        <url>https://watershed.ticketsolve.com/shows/1173694918/events</url>
+        <version>51</version>
+        <tags>
+          <tag>cinema</tag>
+          <tag>main</tag>
+          <tag>preview</tag>
+          <tag>the_history_of_concrete</tag>
+        </tags>
+        <properties>
+        </properties>
+        <events>
+          <event id='428913974'>
+            <name>
+              <![CDATA[30 Dec 2026 - 18:00 @ Watershed Cinemas Preview: The History of Concrete (18 CTBA) PS]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-12-30T18:00:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-12-30T18:00:00+00:00</opening_time_iso>
+            <event_number>428913974</event_number>
+            <venue_layout>Cinema 1</venue_layout>
+            <comment>
+              <![CDATA[]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173694918/events/428913974</url>
+            <status>sold out</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173694918/events/428913974.xml</url>
+            </feed>
+          </event>
+          <event id='428922881'>
+            <name>
+              <![CDATA[02 Jan 2027 - 15:00 @ Watershed Cinemas Preview: The History of Concrete (18 CTBA) PS]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2027-01-02T15:00:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2027-01-02T15:00:00+00:00</opening_time_iso>
+            <event_number>428922881</event_number>
+            <venue_layout>Cinema 3</venue_layout>
+            <comment>
+              <![CDATA[There will be no ads or trailers, this screening will be preceded with an into from  Bristol Doc Club.]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173694918/events/428922881</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173694918/events/428922881.xml</url>
+            </feed>
+          </event>
+        </events>
+        <status>available</status>
+      </show>
+      <show id='1173694920'>
+        <name>
+          <![CDATA[Short Cuts (35mm UK Roadshow Tour) (18)]]>
+        </name>
+        <description/>
+        <event_category>Film</event_category>
+        <production_company_name>Curzon Film</production_company_name>
+        <priority>0</priority>
+        <url>https://watershed.ticketsolve.com/shows/1173694920/events</url>
+        <version>30</version>
+        <tags>
+          <tag>35mm</tag>
+          <tag>main</tag>
+          <tag>one_off</tag>
+          <tag>short_cuts</tag>
+        </tags>
+        <properties>
+        </properties>
+        <events>
+          <event id='428913976'>
+            <name>
+              <![CDATA[16 Nov 2026 - 19:40 @ Watershed Cinemas Short Cuts (35mm UK Roadshow Tour) (18)]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-11-16T19:40:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-11-16T19:40:00+00:00</opening_time_iso>
+            <event_number>428913976</event_number>
+            <venue_layout>Cinema 3</venue_layout>
+            <comment>
+              <![CDATA[This event will start at the advertised screening time – there will be no ads or trailers.
+This screening will be preceded with an introduction.]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173694920/events/428913976</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173694920/events/428913976.xml</url>
+            </feed>
+          </event>
+        </events>
+        <status>available</status>
+      </show>
+      <show id='1173695141'>
+        <name>
+          <![CDATA[Sonic Cinema: Daïchi Saïto (35mm) (18 CTBA)]]>
+        </name>
+        <description/>
+        <event_category>Film</event_category>
+        <production_company_name/>
+        <priority>0</priority>
+        <url>https://watershed.ticketsolve.com/shows/1173695141/events</url>
+        <version>32</version>
+        <tags>
+          <tag>35mm</tag>
+          <tag>main</tag>
+          <tag>one_off</tag>
+          <tag>sonic_cinema</tag>
+        </tags>
+        <properties>
+        </properties>
+        <events>
+          <event id='428916513'>
+            <name>
+              <![CDATA[26 Nov 2026 - 18:30 @ Watershed Cinemas Sonic Cinema: Daïchi Saïto (35mm) (18 CTBA)]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-11-26T18:30:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-11-26T18:30:00+00:00</opening_time_iso>
+            <event_number>428916513</event_number>
+            <venue_layout>Cinema 1</venue_layout>
+            <comment>
+              <![CDATA[This event will start at the advertised screening time – there will be no ads or trailers.
+This screening will be preceded with an introduction and followed by a live Q&A.]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173695141/events/428916513</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173695141/events/428916513.xml</url>
+            </feed>
+          </event>
+        </events>
+        <status>available</status>
+      </show>
+      <show id='1173694813'>
+        <name>
+          <![CDATA[Spike Island x Watershed: 2026 Film London Jarman Award (18) CTBA]]>
+        </name>
+        <description/>
+        <event_category/>
+        <production_company_name/>
+        <priority>0</priority>
+        <url>https://watershed.ticketsolve.com/shows/1173694813/events</url>
+        <version>53</version>
+        <tags>
+          <tag>jarman_awards_2026</tag>
+          <tag>main</tag>
+        </tags>
+        <properties>
+        </properties>
+        <events>
+          <event id='428912342'>
+            <name>
+              <![CDATA[04 Nov 2026 - 18:00 @ Watershed Cinemas Spike Island x Watershed: 2026 Film London Jarman Award (18) CTBA]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-11-04T18:00:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-11-04T18:00:00+00:00</opening_time_iso>
+            <event_number>428912342</event_number>
+            <venue_layout>Cinema 2</venue_layout>
+            <comment>
+              <![CDATA[]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173694813/events/428912342</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173694813/events/428912342.xml</url>
+            </feed>
+          </event>
+        </events>
+        <status>available</status>
+      </show>
+      <show id='1173695381'>
+        <name>
+          <![CDATA[The Puppet Folk Experience – Christmas Special]]>
+        </name>
+        <description/>
+        <event_category>Event</event_category>
+        <production_company_name/>
+        <priority>0</priority>
+        <url>https://watershed.ticketsolve.com/shows/1173695381/events</url>
+        <version>23</version>
+        <tags>
+          <tag>main</tag>
+          <tag>no_strings_on_me</tag>
+          <tag>the_puppet_folk_experience</tag>
+          <tag>xmas26</tag>
+        </tags>
+        <properties>
+        </properties>
+        <events>
+          <event id='428918270'>
+            <name>
+              <![CDATA[13 Dec 2026 - 13:30 @ Watershed Cinemas The Puppet Folk Experience – Christmas Special]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-12-13T13:30:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-12-13T13:30:00+00:00</opening_time_iso>
+            <event_number>428918270</event_number>
+            <venue_layout>Cinema 1</venue_layout>
+            <comment>
+              <![CDATA[]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173695381/events/428918270</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173695381/events/428918270.xml</url>
+            </feed>
+          </event>
+        </events>
+        <status>available</status>
+      </show>
+      <show id='1173694175'>
+        <name>
+          <![CDATA[Wildwood (12A)]]>
+        </name>
+        <description/>
+        <event_category>Film</event_category>
+        <production_company_name>Black Bear</production_company_name>
+        <priority>0</priority>
+        <url>https://watershed.ticketsolve.com/shows/1173694175/events</url>
+        <version>431</version>
+        <tags>
+          <tag>cinema</tag>
+          <tag>first_run</tag>
+          <tag>main</tag>
+          <tag>wildwood</tag>
+        </tags>
+        <properties>
+        </properties>
+        <events>
+          <event id='428918121'>
+            <name>
+              <![CDATA[01 Nov 2026 - 11:10 @ Watershed Cinemas Wildwood (12A)]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-11-01T11:10:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-11-01T11:10:00+00:00</opening_time_iso>
+            <event_number>428918121</event_number>
+            <venue_layout>Cinema 2</venue_layout>
+            <comment>
+              <![CDATA[]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173694175/events/428918121</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173694175/events/428918121.xml</url>
+            </feed>
+          </event>
+          <event id='428918122'>
+            <name>
+              <![CDATA[01 Nov 2026 - 14:10 @ Watershed Cinemas Wildwood (12A)]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-11-01T14:10:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-11-01T14:10:00+00:00</opening_time_iso>
+            <event_number>428918122</event_number>
+            <venue_layout>Cinema 2</venue_layout>
+            <comment>
+              <![CDATA[This screening has descriptive subtitles]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173694175/events/428918122</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173694175/events/428918122.xml</url>
+            </feed>
+          </event>
+          <event id='428918153'>
+            <name>
+              <![CDATA[02 Nov 2026 - 14:40 @ Watershed Cinemas Wildwood (12A)]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-11-02T14:40:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-11-02T14:40:00+00:00</opening_time_iso>
+            <event_number>428918153</event_number>
+            <venue_layout>Cinema 3</venue_layout>
+            <comment>
+              <![CDATA[This is a Masked and Socially Distanced Screening. Wearing a mask is mandatory throughout this screening unless you are exempt.]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173694175/events/428918153</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173694175/events/428918153.xml</url>
+            </feed>
+          </event>
+          <event id='428916332'>
+            <name>
+              <![CDATA[18 Nov 2026 - 11:00 @ Watershed Cinemas Wildwood (12A)]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-11-18T11:00:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-11-18T11:00:00+00:00</opening_time_iso>
+            <event_number>428916332</event_number>
+            <venue_layout>Cinema 2</venue_layout>
+            <comment>
+              <![CDATA[Screening for parents and carers of babies less than 12 months old only. With Descriptive subtitles. ]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173694175/events/428916332</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173694175/events/428916332.xml</url>
+            </feed>
+          </event>
+        </events>
+        <status>available</status>
+      </show>
+      <show id='1173695015'>
+        <name>
+          <![CDATA[You Can See Everything (18 CTBA)]]>
+        </name>
+        <description/>
+        <event_category>Film</event_category>
+        <production_company_name>A24</production_company_name>
+        <priority>0</priority>
+        <url>https://watershed.ticketsolve.com/shows/1173695015/events</url>
+        <version>375</version>
+        <tags>
+          <tag>cinema</tag>
+          <tag>first_run</tag>
+          <tag>main</tag>
+          <tag>you_can_see_everything</tag>
+        </tags>
+        <properties>
+        </properties>
+        <events>
+          <event id='428915284'>
+            <name>
+              <![CDATA[20 Nov 2026 - 11:00 @ Watershed Cinemas You Can See Everything (18 CTBA)]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-11-20T11:00:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-11-20T11:00:00+00:00</opening_time_iso>
+            <event_number>428915284</event_number>
+            <venue_layout>Cinema 1</venue_layout>
+            <comment>
+              <![CDATA[Get a free tea or filter coffee when you show your ticket when purchasing a cake from the Cafe & Bar. ------------- This film will be screened with Descriptive Subtitles ]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173695015/events/428915284</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173695015/events/428915284.xml</url>
+            </feed>
+          </event>
+          <event id='428915268'>
+            <name>
+              <![CDATA[20 Nov 2026 - 17:10 @ Watershed Cinemas You Can See Everything (18 CTBA)]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-11-20T17:10:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-11-20T17:10:00+00:00</opening_time_iso>
+            <event_number>428915268</event_number>
+            <venue_layout>Cinema 1</venue_layout>
+            <comment>
+              <![CDATA[]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173695015/events/428915268</url>
+            <status>sold out</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173695015/events/428915268.xml</url>
+            </feed>
+          </event>
+          <event id='428915604'>
+            <name>
+              <![CDATA[20 Nov 2026 - 20:50 @ Watershed Cinemas You Can See Everything (18 CTBA)]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-11-20T20:50:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-11-20T20:50:00+00:00</opening_time_iso>
+            <event_number>428915604</event_number>
+            <venue_layout>Cinema 1</venue_layout>
+            <comment>
+              <![CDATA[]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173695015/events/428915604</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173695015/events/428915604.xml</url>
+            </feed>
+          </event>
+          <event id='428915888'>
+            <name>
+              <![CDATA[22 Nov 2026 - 16:10 @ Watershed Cinemas You Can See Everything (18 CTBA)]]>
+            </name>
+            <date_time_iso format='ISO 8601' zone='GMT'>2026-11-22T16:10:00+00:00</date_time_iso>
+            <opening_time_iso format='ISO 8601' zone='GMT'>2026-11-22T16:10:00+00:00</opening_time_iso>
+            <event_number>428915888</event_number>
+            <venue_layout>Cinema 1</venue_layout>
+            <comment>
+              <![CDATA[The Sun 22 Nov 16:10 screening of You Can See Everything is presented in partnership with Bristol Doc Club, who will introduce the film and host a Doc Club meet-up in the Café & Bar afterwards – everyone welcome.]]>
+            </comment>
+            <event_attribute/>
+            <url>https://watershed.ticketsolve.com/shows/1173695015/events/428915888</url>
+            <status>available</status>
+            <feed>
+              <url>https://watershed.ticketsolve.com/shows/1173695015/events/428915888.xml</url>
+            </feed>
+          </event>
+        </events>
+        <status>available</status>
+      </show>
+    </shows>
+  </venue>
+</venues><!-- __CACHE__ -->
