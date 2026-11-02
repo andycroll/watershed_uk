@@ -5,7 +5,6 @@ require 'cinebase'
 
 require_relative './watershed_uk/version'
 
-require_relative './watershed_uk/internal/http'
 require_relative './watershed_uk/internal/ticketsolve'
 require_relative './watershed_uk/internal/title_sanitizer'
 

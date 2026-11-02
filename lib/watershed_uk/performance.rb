@@ -23,8 +23,6 @@ module WatershedUk
     #   @option options [Integer] :film_year (nil) year from the film's title
     #   @option options [Time] :starting_at listed start time of the performance
 
-    TIME_ZONE = 'Europe/London'.freeze
-
     # Performances within an inclusive range of showing dates. The Ticketsolve
     # feed holds every advertised date, so any range is one request.
     # @param [String] cinema_id the cinema's id, 'watershed'
@@ -33,7 +31,7 @@ module WatershedUk
     # @return [Array<WatershedUk::Performance>]
     def self.at(
       cinema_id,
-      from: TZInfo::Timezone.get(TIME_ZONE).now.to_date,
+      from: Cinebase::London.today,
       to: from + 13
     )
       raise ArgumentError, 'to must not precede from' if to < from
@@ -65,10 +63,9 @@ module WatershedUk
     #   @return <Array[String]>
 
     def self.screenings(shows, dates)
-      london = TZInfo::Timezone.get(TIME_ZONE)
       shows.select { |show| Internal::Parser::Screening.film?(show) }.flat_map do |show|
         show.events
-            .select { |event| dates.cover?(london.to_local(event.starting_at).to_date) }
+            .select { |event| dates.cover?(Cinebase::London.date(event.starting_at)) }
             .map { |event| Internal::Parser::Screening.new(show, event) }
       end
     end
