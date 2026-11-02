@@ -2,7 +2,7 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
-## [Unreleased]
+## [1.0.0] - 2026-11-02
 
 ### Added
 - `WatershedUk::Cinema.all` and `WatershedUk::Cinema.new(id)` for Watershed in Bristol, keyed `'watershed'`, with the address from the website's footer and coordinates from OpenStreetMap.
