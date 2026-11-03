@@ -1,6 +1,6 @@
 # Ruby interface for https://www.watershed.co.uk
-# @version 1.0.1
+# @version 1.1.0
 module WatershedUk
   # Gem version
-  VERSION = '1.0.1'.freeze
+  VERSION = '1.1.0'.freeze
 end

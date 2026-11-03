@@ -46,8 +46,16 @@ class WatershedUk::Internal::Parser::ScreeningTest < Minitest::Test
   def test_festivals_come_from_titles
     hash = to_hash(show(name: 'CFF: Fjord (15)'))
 
-    assert_equal Cinebase::Festival.new(name: 'CFF', year: 2026), hash[:festival]
+    assert_equal Cinebase::Festival.new(name: 'Cambridge Film Festival', year: 2026), hash[:festival]
     assert_equal 'Fjord', hash[:film_name]
+  end
+
+  def test_performances_read_audience_labels_from_the_title
+    hash = to_hash(show(name: 'Relaxed Screening: Wildwood (12A)'))
+    performance = WatershedUk::Performance.new(hash.merge(cinema_id: 'watershed', cinema_name: 'Watershed'))
+
+    assert_equal 'Wildwood', performance.film_name
+    assert_equal %w(relaxed), performance.variant
   end
 
   private

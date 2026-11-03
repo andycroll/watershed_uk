@@ -111,7 +111,8 @@ class WatershedUk::PerformanceTest < Minitest::Test
 
     performance = find('428882883')
 
-    assert_equal 'National Theatre Live: Golden Boy', performance.film_name
+    assert_equal 'Golden Boy', performance.film_name
+    assert_equal 'National Theatre Live', performance.event.name
     assert_equal %w(arts), performance.variant
   end
 
